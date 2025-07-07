@@ -1,5 +1,5 @@
 In this game, firstly the user have to press a key on his/her keyboard to initiate the game. Then a random color out of the four colors would pop up. The user have to memorize and press that exact color.
-After a successful attempt of the user, a levelup() function would be initiated which blinks another color. The user has to memorize the pattern in which the colors blink and have to press the colors in that exact sequence.
+After a successful attempt of the user, a levelup would be initiated which blinks another color. The user has to memorize the pattern in which the colors blink and have to press the colors in that exact sequence.
 The system will only blink the most recent color but the user has to memorize the previous colors and their sequence as well.
 
 For Devs:
